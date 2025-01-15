@@ -1,0 +1,31 @@
+/Users/artempak_macbook_air
+/Users/artempak_macbook_air
+/Users/artempak_macbook_air
+/Users/artempak_macbook_air
+2025-01-15 19:33:04.841209
+2025-01-15 19:34:00.993399
+2025-01-15 19:35:01.147182
+2025-01-15 19:36:00.304039
+2025-01-15 19:37:00.473567
+2025-01-15 19:38:00.669270
+2025-01-15 19:39:00.850177
+Traceback (most recent call last):
+  File "/Users/artempak_macbook_air/Desktop/Code/alex_python_edu/cron_basics.py", line 5, in <module>
+    asdasd
+NameError: name 'asdasd' is not defined
+2025-01-15 19:40:01.007299
+Traceback (most recent call last):
+  File "/Users/artempak_macbook_air/Desktop/Code/alex_python_edu/cron_basics.py", line 5, in <module>
+    asdasd
+NameError: name 'asdasd' is not defined
+2025-01-15 19:41:00.174000
+Traceback (most recent call last):
+  File "/Users/artempak_macbook_air/Desktop/Code/alex_python_edu/cron_basics.py", line 5, in <module>
+    asdasd
+NameError: name 'asdasd' is not defined
+2025-01-15 19:42:00.342047
+Traceback (most recent call last):
+  File "/Users/artempak_macbook_air/Desktop/Code/alex_python_edu/cron_basics.py", line 5, in <module>
+    asdasd
+NameError: name 'asdasd' is not defined
+2025-01-15 19:43:00.491486
