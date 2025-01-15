@@ -1,0 +1,10 @@
+spam = ['a1', '2', 'tofu', 'c3']
+
+def list_to_string(spam):
+    for index in range(len(spam)):
+        if index == len(spam) - 1:
+            print(spam[index], end='')    
+        else:
+            print(spam[index], end=', ')
+
+list_to_string(spam)
