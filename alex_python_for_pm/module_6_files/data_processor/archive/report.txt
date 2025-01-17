@@ -1,0 +1,2 @@
+{ "timestamp": "2023-08-18 09:15:23", "user_id": "U12345", "item": "The Great Gatsby", "quantity": 1, "total_price": "$20.00" }
+{ "timestamp": "2023-08-18 10:42:56", "user_id": "U12346", "item": "Harry Potter", "quantity": 2, "total_price": "$40.00" }
