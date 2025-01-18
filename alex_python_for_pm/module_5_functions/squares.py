@@ -1,4 +1,4 @@
-import functions_refactored
+import python_learning.module_5_functions.functions_refactored as functions_refactored
 
 x = [1, 5, 65, 1, 6]
 
